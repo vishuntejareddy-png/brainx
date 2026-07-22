@@ -1,0 +1,22 @@
+{
+  "queries": [
+    {
+      "timestamp": "2026-07-22T21:53:45.056599",
+      "retrieved_chunks": 8,
+      "retrieval_time_ms": 787.17,
+      "generation_time_ms": 2928.88,
+      "total_time_ms": 3716.51,
+      "embedding_model": "gemini-embedding-001",
+      "generation_model": "gemini-3.1-flash-lite"
+    },
+    {
+      "timestamp": "2026-07-22T21:54:23.018915",
+      "retrieved_chunks": 8,
+      "retrieval_time_ms": 1113.66,
+      "generation_time_ms": 2300.03,
+      "total_time_ms": 3414.55,
+      "embedding_model": "gemini-embedding-001",
+      "generation_model": "gemini-3.1-flash-lite"
+    }
+  ]
+}
